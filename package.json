@@ -1,0 +1,17 @@
+{
+  "name": "expense-tracker-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "expense-tracker": "index.js"
+  },
+  "author": "Alireza Dehghan Ashkezari",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ]
+}
